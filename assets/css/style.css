@@ -263,3 +263,23 @@ margin-top: 0% !important;
 .testimonial-section-two .slider-testimonial-two .testimonial-block-panel{
     min-height: 350px !important;
 }
+/* -----------------sectors */
+.sector-area{
+    border-bottom: 2px solid #E62226;
+    padding-bottom: 10px;
+}
+.sector-name{
+    font-size: 30px !important;
+    color: #E62226;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+.sector-name-margin{
+    margin-top: 50px;
+}
+.sector-link{
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+}
