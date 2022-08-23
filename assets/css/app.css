@@ -709,7 +709,7 @@ nav.navbar ul.nav>li>a:hover {
 .home_slides .carousel.slide .carousel-inner .item .carousel-caption {
     position: absolute;
     text-align: center;
-    top: 49% !important;
+    top: 59% !important;
     left: 5%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
