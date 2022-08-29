@@ -54,7 +54,7 @@ nav.navbar.navbar-default.navlinner {
 
 nav.navbar.navbar-default.white:before {
   position: absolute;
-  width: 857px;
+  /* width: 857px; */
   height: 29px;
   content: "";
   bottom: -30px;
